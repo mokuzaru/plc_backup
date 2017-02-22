@@ -1,0 +1,19 @@
+quick guide for plc siemens s7-300
+----------------------------------
+
+connect MPI cable to pcadapter then connect to the pc using a standar usb cable.
+
+there are to difderence pcadapter
+
+Pcadapter USB A2 (news)
+
+-use the pc adapter mip with name A2
+-does not apeare usb port 
+
+PC usb adap`ter (standar)
+-standar options
+
+After setting the connection options o plc... then use the upload to extrac the 
+backup data.
+
+
